@@ -2,8 +2,8 @@
 
 ### Email: contact@tobyreid.dev
 
-### GitHub: [github.com/tobyreiddev](github.com/tobyreiddev)
+### GitHub: [github.com/tobyreiddev](https://github.com/tobyreiddev)
 
-### LinkedIn: [linkedin.com/in/toby-reid-dev/](linkedin.com/in/toby-reid-dev/)
+### LinkedIn: [linkedin.com/in/toby-reid-dev/](https://www.linkedin.com/in/toby-reid-dev)
 
-### Website: [tobyreid.dev](tobyreid.dev)
+### Website: [tobyreid.dev](https://tobyreid.dev)
